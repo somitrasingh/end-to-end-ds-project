@@ -1,0 +1,1 @@
+It is an end to end Data Science project, it is being deployed on AWS
